@@ -1,9 +1,9 @@
 const Frame78 = () => {
     return(
         <div className="absolute top-[1268px] left-[2px] w-[1440px] h-[691px] overflow-hidden text-[150px] text-whitesmoke font-text-20-bold">
-        <div className="absolute top-[0px] left-[1px] w-[1477px] h-[568px]">
+        <div className="absolute left-[1px] w-[1477px] h-[568px]">
           <img
-            className="absolute top-[0px] left-[0px] w-[1439px] h-[531.08px]"
+            className="absolute w-[1439px] h-[531.08px]"
             alt=""
             src="/frame78-line-1.svg"
           />

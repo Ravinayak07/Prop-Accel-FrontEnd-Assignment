@@ -1,15 +1,15 @@
 const Frame2 = () => {
     return(
-      <div className="absolute top-[743px] left-[0px] w-[1439px] h-[525px] overflow-hidden text-xl text-black font-text-20-bold">
-        <div className="absolute top-[49px] left-[175.5px] w-[552px] h-[397px]">
-          <div className="absolute top-[0px] left-[0px] rounded-3xs overflow-hidden flex flex-col p-[30px] items-start justify-start gap-[16px] border-[0.5px] border-solid border-ghost">
+      <div className="absolute top-[743px] w-[1439px] h-[525px] overflow-hidden text-xl text-black font-text-20-bold">
+        <div className="absolute top-[49px] left-[175.5px] w-[552px]">
+          <div className="absolute rounded-3xs overflow-hidden flex flex-col p-[30px] items-start justify-start gap-[16px] border-[0.5px] border-solid border-ghost">
             <b className="relative">Interactive Features</b>
             <div className="relative text-xs inline-block w-52">
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been
             </div>
           </div>
-          <div className="absolute top-[214px] left-[0px] rounded-3xs overflow-hidden flex flex-col p-[30px] items-start justify-start gap-[16px] border-[0.5px] border-solid border-ghost">
+          <div className="absolute top-[214px] rounded-3xs overflow-hidden flex flex-col p-[30px] items-start justify-start gap-[16px] border-[0.5px] border-solid border-ghost">
             <b className="relative">Interactive Features</b>
             <div className="relative text-xs inline-block w-52">
               Lorem Ipsum is simply dummy text of the printing and typesetting

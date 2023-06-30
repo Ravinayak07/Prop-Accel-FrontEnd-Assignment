@@ -1,8 +1,8 @@
 const Frame87 = () => {
     return(
-        <div className="absolute top-[2514px] left-[0px] w-[1440px] h-[493px] overflow-hidden text-xs font-text-20-bold">
+        <div className="absolute top-[2514px]  w-[1440px] h-[493px] overflow-hidden text-xs font-text-20-bold">
         <img
-          className="absolute top-[6.5px] left-[0px] w-[1440px] h-[486.44px]"
+          className="absolute top-[6.5px] w-[1440px] h-[486.44px]"
           alt=""
           src="/frame87-bg.svg"
         />
@@ -16,22 +16,22 @@ const Frame87 = () => {
             </div>
             <div className="w-36 flex flex-row items-center justify-start gap-[16px]">
               <img
-                className="relative w-6 h-6 overflow-hidden shrink-0"
+                className="relative w-6 h-6 overflow-hidden"
                 alt=""
                 src="/frame87-facebook.svg"
               />
               <img
-                className="relative w-6 h-6 overflow-hidden shrink-0"
+                className="relative w-6 h-6 overflow-hidden"
                 alt=""
                 src="/frame87-youtube.svg"
               />
               <img
-                className="relative w-6 h-6 overflow-hidden shrink-0"
+                className="relative w-6 h-6 overflow-hidden"
                 alt=""
                 src="/frame87-instagram.svg"
               />
               <img
-                className="relative w-6 h-6 overflow-hidden shrink-0"
+                className="relative w-6 h-6 overflow-hidden"
                 alt=""
                 src="/frame87-twitter.svg"
               />
